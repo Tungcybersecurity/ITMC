@@ -4,5 +4,5 @@ int main()
 {
 	//như con cặc
 	cout << "hello" << endl;
-	return 0; 
+	
 }
